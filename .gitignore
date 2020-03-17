@@ -9,6 +9,10 @@
 .history
 .svn/
 
+#custom
+**/google-services.json
+**/key.properties
+**/logo/
 # IntelliJ related
 *.iml
 *.ipr
