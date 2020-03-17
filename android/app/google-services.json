@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "861836342946",
+    "firebase_url": "https://coronatracker-4ea3c.firebaseio.com",
+    "project_id": "coronatracker-4ea3c",
+    "storage_bucket": "coronatracker-4ea3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861836342946:android:798d2624d48f706bdf09fb",
+        "android_client_info": {
+          "package_name": "com.jtech.coronatracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861836342946-d8e9qee85vhp0sd2c0i24lgo67cb27rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jtech.coronatracker",
+            "certificate_hash": "e77782f5dfac14931ed79bf9de485fbb833e478c"
+          }
+        },
+        {
+          "client_id": "861836342946-elqmsg5anpp3hiaci16e4hsu1bm6dkj9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jtech.coronatracker",
+            "certificate_hash": "b624e5838565e8dd2f63326fe07edeaf6585029b"
+          }
+        },
+        {
+          "client_id": "861836342946-m0u074rrm3m0hsh33c0gl5vnidj6oe9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP-IT27yIYQWlWeri8b9HnXRUbjDmvL2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861836342946-m0u074rrm3m0hsh33c0gl5vnidj6oe9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
